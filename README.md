@@ -1,5 +1,3 @@
-# Random
-
 💚Random-Cloning💚
 💚pkg update
 💚pkg upgrade
