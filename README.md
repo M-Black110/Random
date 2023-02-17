@@ -1,4 +1,4 @@
-#Random-Cloning
+Random-Cloning
 pkg update
 pkg upgrade
 pkg install python
